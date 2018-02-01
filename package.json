@@ -1,0 +1,9 @@
+{
+    "name": "product",
+    "version": "0.0.1",
+    "description": "Cloud Functions for Firebase",
+    "dependencies": {
+        "firebase-functions": "latest",
+        "firebase-admin": "latest"
+    }
+}
