@@ -1,0 +1,2 @@
+# GCP Functionのテスト
+・メモ
